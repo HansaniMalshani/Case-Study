@@ -17,4 +17,3 @@ Install dependencies using:
 
 ```bash
 pip install matplotlib
-# Case-Study
